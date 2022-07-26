@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#Gaussian-Process-Regression","page":"Gaussian Process Regression","title":"Gaussian Process Regression","text":"","category":"section"},{"location":"","page":"Gaussian Process Regression","title":"Gaussian Process Regression","text":"SquaredExp","category":"page"},{"location":"#GaussianProcessRegression.SquaredExp","page":"Gaussian Process Regression","title":"GaussianProcessRegression.SquaredExp","text":"Singleton type for Squared Exponential covariance kernel.\n\nThe covariance kernel is given by\n\nK(xx) = exp(-lvert hp * (x - x) rvert^2)\n\n\n\n\n\n","category":"type"}]
+}
